@@ -21,3 +21,4 @@ Under Android, add the com.google.code.yadview library on the bottom
 of the window and hit Apply. The errors should disappear afterwards.
 
 Lastly, run Dijit-DayView as an Android project!
+Be sure you are running on an emulator that uses ICS (4.0)

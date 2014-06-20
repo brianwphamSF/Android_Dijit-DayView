@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2006 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="show_day_view" msgid="5782512782605466016">"Hiển thị ngày"</string>
+    <string name="event_view" msgid="7621353079385122317">"Xem sự kiện"</string>
+    <string name="event_create" msgid="6941040556709110617">"Sự kiện mới"</string>
+    <string name="event_edit" msgid="4006961928830064662">"Chỉnh sửa sự kiện"</string>
+    <string name="event_delete" msgid="2386667193277770442">"Xóa sự kiện"</string>
+    <string name="new_event_dialog_option" msgid="6154657379574669371">"Sự kiện mới"</string>
+    <string name="day_view_new_event_hint" msgid="2131483437911536229">"+ Sự kiện mới"</string>
+    <string name="template_announce_item_index" msgid="4067877800670753110">"Sự kiện <xliff:g id="ITEM_INDEX">%1$s</xliff:g> trong tổng số <xliff:g id="ITEM_COUNT">%2$s</xliff:g>."</string>
+
+</resources>
